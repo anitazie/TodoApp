@@ -1,0 +1,25 @@
+.checkboxWrapper {
+  padding: 2px 1em 0px 0px;
+}
+
+.checkbox {
+  &:hover {
+    .circle {
+      display: none;
+    }
+
+    .check {
+      display: initial;
+    }
+  }
+}
+
+.check {
+  display: none;
+}
+
+.icon {
+  color: gray;
+  font-size: 16px;
+  cursor: pointer;
+}

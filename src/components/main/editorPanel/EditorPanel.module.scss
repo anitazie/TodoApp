@@ -1,0 +1,8 @@
+.panel {
+  width: 600px;
+  background-color: #fff;
+  border-right: 1px solid #f1f1f1;
+  min-height: calc(100vh - var(--topBarHeight));
+  padding: 36px 9px 84px 39px;
+  margin: auto;
+}

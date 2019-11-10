@@ -1,0 +1,27 @@
+.taskItem {
+  padding-right: 40px;
+  font-size: 14px;
+  border-radius: 3px;
+}
+
+.taskItemDetails {
+  display: flex;
+  padding: 10px 0;
+  border-bottom: 1px solid #f0f0f0;
+  line-height: 21px;
+}
+
+.taskContentItem {
+  padding-right: 24px;
+  max-width: 500px;
+  cursor: text;
+  user-select: text;
+}
+
+.itemContent {
+  line-height: 18px;
+  color: #333;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  word-break: break-word;
+}
